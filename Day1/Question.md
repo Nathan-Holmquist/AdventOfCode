@@ -15,12 +15,12 @@ There's just one problem: by holding the two lists up side by side (your puzzle 
 
 For example:
 
-3   4
-4   3
-2   5
-1   3
-3   9
-3   3
+3--4<br>
+4--3<br>
+2--5<br>
+1--3<br>
+3--9<br>
+3--3<br>
 Maybe the lists are only off by a small amount! To find out, pair up the numbers and measure how far apart they are. Pair up the smallest number in the left list with the smallest number in the right list, then the second-smallest left number with the second-smallest right number, and so on.
 
 Within each pair, figure out how far apart the two numbers are; you'll need to add up all of those distances. For example, if you pair up a 3 from the left list with a 7 from the right list, the distance apart is 4; if you pair up a 9 with a 3, the distance apart is 6.
@@ -48,12 +48,12 @@ This time, you'll need to figure out exactly how often each number from the left
 
 Here are the same example lists again:
 
-3   4
-4   3
-2   5
-1   3
-3   9
-3   3
+3--4<br>
+4--3<br>
+2--5<br>
+1--3<br>
+3--9<br>
+3--3<br>
 
 For these example lists, here is the process of finding the similarity score:
 
