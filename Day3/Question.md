@@ -16,8 +16,6 @@ Only the four highlighted sections are real mul instructions. Adding up the resu
 
 Scan the corrupted memory for uncorrupted mul instructions. What do you get if you add up all of the results of the multiplications?
 
-Your puzzle answer was 188192787.
-
 --- Part Two ---
 As you scan through the corrupted memory, you notice that some of the conditional statements are also still intact. If you handle some of the uncorrupted conditional statements in the program, you might be able to get an even more accurate result.
 
